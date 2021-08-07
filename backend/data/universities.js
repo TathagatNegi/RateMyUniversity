@@ -1,6 +1,5 @@
-const Universities = [
+const Universitiesdata = [
   {
-    _id: '1',
     name: 'University of Arizona',
     image: '/images/1.jpg',
     description:
@@ -11,7 +10,6 @@ const Universities = [
     numReviews: 4,
   },
   {
-    _id: '2',
     name: 'University of Delhi',
     image: '/images/2.jpg',
     description:
@@ -22,7 +20,6 @@ const Universities = [
     numReviews: 4,
   },
   {
-    _id: '3',
     name: 'Dit University',
     image: '/images/3.jpg',
     description:
@@ -34,7 +31,6 @@ const Universities = [
     numReviews: 3,
   },
   {
-    _id: '4',
     name: 'University of canada',
     image: '/images/4.jpg',
     description:
@@ -46,7 +42,6 @@ const Universities = [
     numReviews: 3,
   },
   {
-    _id: '5',
     name: 'leaf College',
     image: '/images/5.jpg',
     description: 'ree eryeywee weyyeywe eyewyweywe weyweyweywe ewyweye ',
@@ -57,7 +52,6 @@ const Universities = [
     numReviews: 2,
   },
   {
-    _id: '6',
     name: 'Graphic Era',
     image: '/images/6.jpg',
     description: 'Mfgh thteht thrthh seheg egeshehteh ethethteh ehtehte ',
@@ -68,4 +62,4 @@ const Universities = [
   },
 ];
 
-export default Universities;
+export default Universitiesdata;
